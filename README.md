@@ -10,9 +10,8 @@ This project is an AI-powered chatbot designed to protect children by engaging w
 
 - **Engagement with Predators**: The bot engages with potential child predators online, attempting to extract information such as their name, address, and other useful data. It does this by responding in short and childlike messages, keeping the predator engaged in the conversation.
 
-- **Conversation Templates**: Two conversation templates are provided to engage with potential predators:
-  1. `prompt_template`: In this template, the bot initiates the conversation and sets the stage for interaction.
-  2. `prompt_template_02`: In this template, the bot assumes the role of the child and continues the conversation initiated by the predator.
+- **Conversation Templates**: Two example conversation templates are provided to engage with potential predators:
+   `prompt_template`: In these templates, the bot's behaviour and speaking style is defined. the bot assumes the role of the child and continues the conversation initiated by the predator.
 
 - **Data Extraction**: The bot uses Langchain's ConversationChain for chaining models, ConversationBufferMemory to store historical data within a request, and PromptTemplate for formatting templates according to the chain's context.
 
