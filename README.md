@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an AI-powered chatbot designed to protect children by engaging with potential child sexual predators online. It utilizes the OpenAI GPT-3.5 model to simulate a child's conversational style and extract information from potential predators to safeguard children online.
+This project is an AI-powered chatbot designed to protect children by engaging with potential child predators online. It utilizes the OpenAI GPT-3.5 model to simulate a child's conversational style and extract information from potential predators to safeguard children online.
 
 ## Features
 
